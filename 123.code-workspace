@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "123",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../../../Downloads/flap/images"
+		},
+		{
+			"path": "../../../Downloads/Заготовка (1)/images"
+		},
+		{
+			"path": "../../../Downloads/Заготовка (1)/js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "123"
+	}
+}
